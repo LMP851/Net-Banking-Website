@@ -91,7 +91,7 @@ function myFunction() {
     </table>
     <hr class="colorgraph">
     <br>
-    <input type="submit" name="submit" value="Submit" style="height: 45px; width: 250px; font-size: 25px; color: white; background-color: #4CAF50">
+    <input type="submit" name="submit" value="NEXT" style="height: 45px; width: 250px; font-size: 25px; color: white; background-color: #4CAF50">
   </form>
   </center>
 </body>
